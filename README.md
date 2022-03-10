@@ -2,7 +2,7 @@
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me emial me
+- 📫 How to reach me: emial me
 
 <!---
 Elnazspirit/Elnazspirit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
